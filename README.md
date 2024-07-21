@@ -13,7 +13,7 @@ Where:
 
 Components of CAPM
 
-1. **Risk-Free Rate of Return (\( r_f \))
+1. **Risk-Free Rate of Return (\( r_f \))**
    - Assumed to be a zero-risk asset with zero standard deviation.
    - Typically represented by a U.S. government 10-year Treasury bill.
    - Investors who are risk-averse prefer this asset as it provides a low but guaranteed return.
